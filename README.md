@@ -2,6 +2,7 @@
 node.js, puppeteer, js
 
 ##
+If you want add some websites to scanning, add urls in data/urls.txt :)!
 
 1. git clone https://github.com/mostrozny/ss-maker.git
 2. cd ss-maker/
