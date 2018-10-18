@@ -9,4 +9,4 @@ If you want add some websites to scanning, add urls in data/urls.txt :)!
 3. npm i
 4. node app.js
 
-When the program is finished, the photos are saved in folders jsenabled/ and jsdisabled/
+When the program is finished, the photos are saved in directory jsenabled/ and jsdisabled/
