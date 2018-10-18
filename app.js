@@ -25,7 +25,6 @@ const puppeteer = require('puppeteer');
         });
 
         await page.goto(`https://${urls[i]}`);
-        await page.setJavaScriptEnabled(false);
         await page.setViewport(viewport);
         await page.screenshot({path: `./jsdisabled/${urls[i]}.png`});
         await page.close();
@@ -35,7 +34,6 @@ const puppeteer = require('puppeteer');
     for (let i=0; i<urls.length; i++) {
         const page = await browser.newPage();
         await page.goto(`https://${urls[i]}`);
-        await page.setJavaScriptEnabled(false);
         await page.setViewport(viewport);
         await page.screenshot({path: `./jsenabled/${urls[i]}.png`});
         await page.close();
