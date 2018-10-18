@@ -1,0 +1,6 @@
+angular.io
+youtube.com
+nytimes.com
+wp.pl
+onet.pl
+wpengine.com
