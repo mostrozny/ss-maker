@@ -128,8 +128,8 @@ https://wpengine.com/#content
 ,https://wpengine.com/solution-center/
 ,https://wpengine.com/partners/
 ,tel:+1-512-201-4819
-,https://wpengine.com/cdn-cgi/l/email-protection#e291838e8791a29592878c858b8c87cc818d8f
-,https://wpengine.com/cdn-cgi/l/email-protection#294b40454540474e695e594c474e40474c074a4644
+,https://wpengine.com/cdn-cgi/l/email-protection#b1c2d0ddd4c2f1c6c1d4dfd6d8dfd49fd2dedc
+,https://wpengine.com/cdn-cgi/l/email-protection#1072797c7c797e77506760757e77797e753e737f7d
 ,https://facebook.com/wpengine
 ,https://twitter.com/wpengine
 ,https://www.linkedin.com/company/wp-engine

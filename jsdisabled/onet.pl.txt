@@ -181,6 +181,7 @@ https://www.onet.pl/
 ,https://sport.onet.pl/pilka-nozna/liga-mistrzow
 ,https://sport.onet.pl/legendy-stulecia
 ,https://businessinsider.com.pl/
+,https://businessinsider.com.pl/firmy/strategie/firma-w-social-media-wskazowki-larsa-silberbauera-z-lego/n1d3v5y
 ,https://businessinsider.com.pl/technologie/nowe-technologie/konferencja-inside-trends-business-insider-polska-otwarcie/fpwc256
 ,https://businessinsider.com.pl/finanse/asymetria-informacji-w-biznesie-i-czwartej-rewolucji-przemyslowej/8stb2g8
 ,https://businessinsider.com.pl/wiadomosci/protest-taksowkarzy-w-warszawie-pazdziernik-2018-r/h1q6c07
@@ -194,7 +195,6 @@ https://www.onet.pl/
 ,https://businessinsider.com.pl/finanse/szczyt-klimatyczny-cop24-w-katowicach-wywiad-z-ministrem-kurtyka/2r46w4j
 ,https://businessinsider.com.pl/gielda/wiadomosci/ropa-naftowa-wti-brent-cena-notowania-18-pazdziernika/s7jtx3v
 ,https://businessinsider.com.pl/wiadomosci/dostep-firm-do-rejestru-pesel-polakow/sxf0dwk
-,https://businessinsider.com.pl/finanse/makroekonomia/donald-trump-krytykuje-fed/mpmqfrb
 ,https://insidetrends.businessinsider.com.pl/
 ,http://nieruchomosci.onet.pl/?utm_source=onet.pl&utm_medium=referral&utm_campaign=2018
 ,https://businessinsider.com.pl/gielda?utm_source=onet.pl&utm_medium=referral&utm_campaign=gielda
@@ -213,6 +213,7 @@ https://www.onet.pl/
 ,https://businessinsider.com.pl/gielda/indeks-swiatowy?id=S%26P%20500
 ,https://businessinsider.com.pl/kantor
 ,http://businessinsider.com.pl/
+,https://businessinsider.com.pl/firmy/strategie/firma-w-social-media-wskazowki-larsa-silberbauera-z-lego/n1d3v5y
 ,https://businessinsider.com.pl/finanse/asymetria-informacji-w-biznesie-i-czwartej-rewolucji-przemyslowej/8stb2g8
 ,https://businessinsider.com.pl/technologie/nowe-technologie/konferencja-inside-trends-business-insider-polska-otwarcie/fpwc256
 ,https://businessinsider.com.pl/gielda/wiadomosci/zmiana-prezesa-alior-banku-nowym-ma-zostac-krzysztof-bachta/3gxccn4
@@ -220,7 +221,6 @@ https://www.onet.pl/
 ,https://businessinsider.com.pl/finanse/szczyt-klimatyczny-cop24-w-katowicach-wywiad-z-ministrem-kurtyka/2r46w4j
 ,https://businessinsider.com.pl/finanse/konto-jakze-osobiste-alior-banku-docenione-przez-profesjonalistow/3rxjgr5
 ,https://businessinsider.com.pl/gielda/wiadomosci/wezwanie-na-akcje-polenergii-nie-dojdzie-do-skutku/dhewhpy
-,https://businessinsider.com.pl/finanse/inwestowanie/andrzej-klesyk-inwestycja-w-givt-inwestowanie-w-startupy/j1xjyf4
 ,http://kobieta.onet.pl/
 ,http://kobieta.onet.pl/
 ,http://facet.onet.pl/
