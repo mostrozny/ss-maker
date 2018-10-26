@@ -1,6 +1,8 @@
 # ss-maker
 node.js, puppeteer, js
 
+This app make collection of links and screenshots with enabled/disabled JavaScript on websites.
+
 ##
 If you want add some websites to scanning, add urls in data/urls.txt :)!
 
